@@ -7,7 +7,7 @@ Lab to work on static methods, parameters and return statements.
 
 * Think about formulas used to determine the area of various shapes.
   * How many measurements are needed to determine the area?
-  * What datatype would be best to represent these measurements?
+  * What data type would be best to represent these measurements?
 * For example, the area of a square can be determined using the formula: **A = s^2**.
   * The formula requires **one measurement**, the side length, to calculate the area.
   * The measurement can be either a whole number, or decimal, so using a **double** seems appropriate.
