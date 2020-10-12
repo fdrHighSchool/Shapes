@@ -19,7 +19,7 @@ public static void square(double s){
 ```
 
 ---
-### Part 1
+### Part 1:
 * Other shapes you may consider:
   * Triangle 
     * A = 1/2(bh)
@@ -27,7 +27,7 @@ public static void square(double s){
   * Rectangle
   * Circle
 ---
-### Part 2
+### Part 2:
 * Use existing methods to go a step further and determine the volume of 3D-shapes.
   * Cube
   * Triangular Prism
@@ -36,5 +36,5 @@ public static void square(double s){
 * Think about how these volume formulas relate to the area forumulas you already developed into Java methods.
   * Reuse code when you can!
 ---
-### Extension
+### Extension:
 * Include drawing methods that use nested for loops to produce ASCII art shapes.
